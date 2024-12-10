@@ -1,0 +1,1 @@
+### A voting system in which only members can vote. Users can become members and vote on pre-defined categories. Voting results can be displayed both numerically and as a percentage. Incorrect entries are blocked. the application is divided into methods and classes
